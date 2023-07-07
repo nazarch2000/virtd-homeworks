@@ -45,6 +45,9 @@
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
 
+![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/5008c5ec-bed9-47bb-b5ce-243f0b0c3d7b)
+
+
 ## Задача 4
 
 1. Откройте веб-браузер, зайдите на страницу http://<внешний_ip_адрес_вашей_ВМ>:3000.
