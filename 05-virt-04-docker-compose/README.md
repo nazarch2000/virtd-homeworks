@@ -45,7 +45,7 @@
 
 Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
 
-![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/5008c5ec-bed9-47bb-b5ce-243f0b0c3d7b)
+![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/bd9f2c85-d3c3-480f-a088-52497d5e50d4)
 
 
 ## Задача 4
