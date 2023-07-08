@@ -73,6 +73,7 @@
 ![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/f9f73ac2-e942-400e-8ed9-a1a6e114c310)
 ![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/a053d04a-e05a-49f7-8b43-4307e8e591db)
 ![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/3f9d1b30-16fd-41cd-8653-65228f2083a3)
+![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/f2eea67a-737f-4eee-a592-7558667ca901)
 
 
 
