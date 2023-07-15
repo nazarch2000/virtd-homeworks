@@ -64,5 +64,6 @@ docker service ls
 # см.документацию: https://docs.docker.com/engine/swarm/swarm_manager_locking/
 docker swarm update --autolock=true
 ```
+При включении автоматической блокировки(autolock), мастер-ключ, используемый для доступа к управляющему узлу, будет зашифрован и сохранен в конфигурационных файлах кластера.
 
 
