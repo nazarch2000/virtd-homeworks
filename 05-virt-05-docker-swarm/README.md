@@ -56,6 +56,7 @@ docker node ls
 ```
 docker service ls
 ```
+![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/67fb22c7-5318-4ed3-ad1e-d87b8e251ad7)
 
 ## Задача 4 (*)
 
