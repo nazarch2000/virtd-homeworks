@@ -46,7 +46,7 @@ Round Robin.
 ```
 docker node ls
 ```
-![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/4ea10e47-7cd9-42ed-b154-5c9ee8b89dfb)
+![image](https://github.com/nazarch2000/virtd-homeworks/assets/106932460/6fec7385-d1b7-4119-9e00-e6f964be9eaf)
 
 ## Задача 3
 
